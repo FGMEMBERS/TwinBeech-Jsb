@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<PropertyList>
+
+  <engine n="0">
+    <running>0</running>
+    <rpm>0</rpm>
+    <fuel-flow-pph type="float">0</fuel-flow-pph>
+  </engine>
+  
+  <engine n="1">
+    <running>0</running>
+    <rpm>0</rpm>
+    <fuel-flow-pph type="float">0</fuel-flow-pph>
+  </engine>
+  
+</PropertyList>
