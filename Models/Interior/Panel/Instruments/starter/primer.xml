@@ -2,18 +2,18 @@
 
 <PropertyList>
 
-  <path>ignition.ac</path>
+	<path>ignition.ac</path>
 
-  <animation>
-    <type>material</type>
-    <object-name>fond</object-name>
-    <object-name>Switch-Starter</object-name>
-    <emission>
-      <factor-prop>/systems/electrical/outputs/instrument-lights</factor-prop>
-      <red>   0.50 </red>
-      <green> 0.25 </green>
-      <blue>  0.25 </blue>
-    </emission>
-  </animation>
+	<animation>
+		<type>material</type>
+		<object-name>fond</object-name>
+		<object-name>Switch-Starter</object-name>
+		<emission>
+			<factor-prop>/systems/electrical/outputs/instrument-lights</factor-prop>
+			<red>   0.50 </red>
+			<green> 0.25 </green>
+			<blue>  0.25 </blue>
+		</emission>
+	</animation>
 
 </PropertyList>

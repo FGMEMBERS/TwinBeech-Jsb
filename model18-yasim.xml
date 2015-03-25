@@ -131,19 +131,19 @@
              radius="1.27"
              mass="640"
              moment="5"
-             cruise-power="420"
+             cruise-power="620"
              cruise-speed="176"
              cruise-rpm="2100"
              cruise-alt="5000"
-             takeoff-power="450"
+             takeoff-power="650"
              takeoff-rpm="2300">
              <actionpt x="4.33444" y="1.99930" z="-0.55305"/>
              <control-input axis="/controls/engines/engine[0]/propeller-pitch" control="ADVANCE"/>
-             <piston-engine eng-power="450"
+             <piston-engine eng-power="650"
                             eng-rpm="2300"
                             alt="5000"
                             displacement="985"
-                            compression="6">
+                            compression="9">
                             <control-input control="THROTTLE" axis="/controls/engines/engine[0]/throttle"/>
                             <control-input control="STARTER" axis="/controls/engines/engine[0]/starter"/>
                             <control-input control="MAGNETOS" axis="/controls/engines/engine[0]/magnetos"/>
@@ -156,19 +156,19 @@
              radius="1.27"
              mass="640"
              moment="5"
-             cruise-power="420"
+             cruise-power="620"
              cruise-speed="176"
              cruise-rpm="2100"
              cruise-alt="5000"
-             takeoff-power="450"
+             takeoff-power="650"
              takeoff-rpm="2300">
              <actionpt x="4.33444" y="-1.99930" z="-0.55305"/>
              <control-input axis="/controls/engines/engine[1]/propeller-pitch" control="ADVANCE"/>
-             <piston-engine eng-power="450"
+             <piston-engine eng-power="650"
                             eng-rpm="2300"
                             alt="5000"
                             displacement="985"
-                            compression="6">
+                            compression="9">
                             <control-input control="THROTTLE" axis="/controls/engines/engine[0]/throttle"/>
                             <control-input control="STARTER" axis="/controls/engines/engine[0]/starter"/>
                             <control-input control="MAGNETOS" axis="/controls/engines/engine[0]/magnetos"/>

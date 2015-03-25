@@ -1,1 +1,1 @@
-aircraft.livery.init("Aircraft/Beechcraft-C18S/Models/Liveries");
+aircraft.livery.init("Aircraft/TwinBeech-Jsb/Models/Liveries");

@@ -2,15 +2,15 @@
 
 <PropertyList>
 
-  <path>seat.ac</path>
+	<path>seat.ac</path>
 
-  <animation>
-    <!-- Objets opaques -->
-    <object-name>Base</object-name>
-    <object-name>seat</object-name>
-    <object-name>lever</object-name>
+	<animation>
+		<!-- Objets opaques -->
+		<object-name>Base</object-name>
+		<object-name>seat</object-name>
+		<object-name>lever</object-name>
 
-    <!-- Objets transparents -->
-  </animation>
+		<!-- Objets transparents -->
+	</animation>
 
 </PropertyList>
