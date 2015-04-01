@@ -126,8 +126,8 @@
 			<static_friction>  0.80 </static_friction>
 			<dynamic_friction> 0.50 </dynamic_friction>
 			<rolling_friction> 0.02 </rolling_friction>
-			<spring_coeff unit="LBS/FT">       71200.00 </spring_coeff>
-			<damping_coeff unit="LBS/FT/SEC">  18900.50 </damping_coeff>
+			<spring_coeff unit="LBS/FT">       35600.00 </spring_coeff>
+			<damping_coeff unit="LBS/FT/SEC">  8900.50 </damping_coeff>
 			<damping_coeff_rebound unit="LBS/FT/SEC">3500</damping_coeff_rebound>
 			<max_steer unit="DEG">0</max_steer>
 			<brake_group>LEFT</brake_group>
@@ -143,8 +143,8 @@
 			<static_friction>  0.80 </static_friction>
 			<dynamic_friction> 0.50 </dynamic_friction>
 			<rolling_friction> 0.02 </rolling_friction>
-			<spring_coeff unit="LBS/FT">       71200.00 </spring_coeff>
-			<damping_coeff unit="LBS/FT/SEC">  18900.50 </damping_coeff>
+			<spring_coeff unit="LBS/FT">       35600.00 </spring_coeff>
+			<damping_coeff unit="LBS/FT/SEC">  8900.50 </damping_coeff>
 			<damping_coeff_rebound unit="LBS/FT/SEC">3500</damping_coeff_rebound>
 			<max_steer unit="DEG">0</max_steer>
 			<brake_group>RIGHT</brake_group>
